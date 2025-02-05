@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sinceresrishti/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sinceresrishti/DSA-Practice/tree/master/0155-min-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
