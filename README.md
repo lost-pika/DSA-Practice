@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sinceresrishti/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sinceresrishti/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
