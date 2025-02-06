@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinceresrishti/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sinceresrishti/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -55,8 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sinceresrishti/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
