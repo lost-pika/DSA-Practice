@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinceresrishti/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sinceresrishti/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sinceresrishti/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sinceresrishti/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
