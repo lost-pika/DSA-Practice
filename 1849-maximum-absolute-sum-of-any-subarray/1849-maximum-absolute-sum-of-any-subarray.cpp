@@ -3,24 +3,20 @@ public:
     int maxAbsoluteSum(vector<int>& nums) {
         int n = nums.size();
 
-        int currSubSum = nums[0];
-        int maxSubSum = nums[0];
-        
-        // Kadane's algorithm for max subArray Sum
+        int currSumMax = nums[0];
+        int currSumMin = nums[0];
+
+        int maxSum = nums[0];
+        int minSum = nums[0];
+
         for(int i = 1; i<n; i++){
-            currSubSum = max(nums[i], currSubSum + nums[i]);
-            maxSubSum = max(currSubSum, maxSubSum);
+            currSumMax = max(nums[i], currSumMax + nums[i]);
+            maxSum = max(maxSum, currSumMax);
+
+            currSumMin = min(nums[i], currSumMin + nums[i]);
+            minSum = min(minSum, currSumMin);
         }
 
-        currSubSum = nums[0];
-        int minSubSum = nums[0];
-    
-        // Kadane's algorithm for max subArray Sum
-        for(int i = 1; i<n; i++){
-            currSubSum = min(nums[i], currSubSum + nums[i]);
-            minSubSum = min(currSubSum, minSubSum);
-        }
-
-        return max(maxSubSum, abs(minSubSum));
+        return max(maxSum, abs(minSum));
     }
 };
