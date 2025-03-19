@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sinceresrishti/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sinceresrishti/DSA-Practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sinceresrishti/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sinceresrishti/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sinceresrishti/DSA-Practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sinceresrishti/DSA-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sinceresrishti/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sinceresrishti/DSA-Practice/tree/master/0148-sort-list) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sinceresrishti/DSA-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sinceresrishti/DSA-Practice/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 ## Linked List
