@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sinceresrishti/DSA-Practice/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sinceresrishti/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sinceresrishti/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sinceresrishti/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sinceresrishti/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinceresrishti/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sinceresrishti/DSA-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sinceresrishti/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
