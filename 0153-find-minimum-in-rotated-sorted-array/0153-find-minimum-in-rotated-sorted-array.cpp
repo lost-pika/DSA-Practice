@@ -6,6 +6,15 @@ public:
         int ans = INT_MAX;
         while(low <= high){
             int mid = (low+high)/2;
+
+            // search speace is already sorted
+            // then always arr[low] will be smaller
+            // in that search space
+            if(nums[low] <= nums[high]){
+                ans = min(ans, nums[low]);
+                break;
+            }
+
             if(nums[low] <= nums[mid]){
                 ans = min(ans, nums[low]);
                 low = mid + 1;
