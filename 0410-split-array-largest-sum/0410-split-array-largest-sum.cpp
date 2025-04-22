@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int countSubArrays(vector<int>& nums, int arraySum) {
-        int subArrays = 1;
-        long long subArraySum = 0;
+    int countSubArrays(vector<int>& nums, int maxAllowedSum) {
+        int subarrayCount = 1;
+        long long currentSum = 0;
         for (int i = 0; i < nums.size(); i++) {
-            if (subArraySum + nums[i] <= arraySum) {
-                subArraySum += nums[i];
+            if (currentSum + nums[i] <= maxAllowedSum) {
+                currentSum += nums[i];
             } else {
-                subArrays++;
-                subArraySum = nums[i];
+                subarrayCount++;
+                currentSum = nums[i];
             }
         }
-        return subArrays;
+        return subarrayCount;
     }
 
     int splitArray(vector<int>& nums, int k) {
