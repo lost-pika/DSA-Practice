@@ -1,9 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string original = to_string(x);
-        string reversed = string(original.rbegin(), original.rend());
-        return original == reversed;
+        int digit;
+        long long revNum = 0;
+        int duplicate = x;
+        while(x > 0){
+            digit = x % 10;
+            revNum = (revNum*10) + digit;
+            x = x/10;
+        }
+        if(duplicate == revNum){
+            return true;
+        }
+        return false;
     }
 
 };
