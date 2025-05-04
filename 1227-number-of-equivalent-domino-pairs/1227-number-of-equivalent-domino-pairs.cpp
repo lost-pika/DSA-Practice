@@ -1,22 +1,20 @@
 class Solution {
 public:
     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
-        map<pair<int, int>, int> mp;
+        vector<int> vec(100);
 
-        for(auto &d : dominoes){
+        int result = 0;
+
+        for(auto &d: dominoes){
             if(d[0] > d[1]){
                 swap(d[0], d[1]);
             }
 
-            mp[{d[0], d[1]}]++;
-        }
+            int num = d[0] * 10 + d[1]; // (a,b) -> a*10+b
 
-        int result = 0;
+            result += vec[num];
 
-        for(auto &it: mp){
-            int freq = it.second;
-
-            result += freq * (freq-1)/2;
+            vec[num]++;
         }
 
         return result;
