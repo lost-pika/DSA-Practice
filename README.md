@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinceresrishti/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sinceresrishti/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sinceresrishti/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sinceresrishti/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinceresrishti/DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sinceresrishti/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinceresrishti/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sinceresrishti/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 ## String
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Simulation
 |  |
 | ------- |
