@@ -1,19 +1,27 @@
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int n = matrix.size(); // rows
-        int m = matrix[0].size(); // col
+        int row = matrix.size();
+        int col = matrix[0].size();
+        int n = row * col;
         int low = 0;
-        int high = (n*m) - 1;
-        while(low <= high){
-            int mid = (low + high)/2;
-            int row = mid/m;
-            int col = mid % m;
-            if(matrix[row][col] == target){
+        int high = n - 1;
+
+        // converting 2D matrix to 1D matrix and then applying binary search
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int rowIndex = mid / col;
+            int colIndex = mid % col;
+            int currNumber = matrix[rowIndex][colIndex];
+
+            if (currNumber == target) {
                 return true;
+            } else if (currNumber < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
-            else if(matrix[row][col] < target) low = mid + 1;
-            else high = mid - 1;
         }
         return false;
     }
