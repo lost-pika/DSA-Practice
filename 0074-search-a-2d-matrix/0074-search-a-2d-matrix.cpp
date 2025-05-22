@@ -8,7 +8,7 @@ public:
         int low = 0;
         int high = n - 1;
 
-        // converting 2D matrix to 1D matrix and then applying binary search
+        // converting 1D matrix to 2D matrix and then applying binary search
         while (low <= high) {
             int mid = low + (high - low) / 2;
             int rowIndex = mid / col;
