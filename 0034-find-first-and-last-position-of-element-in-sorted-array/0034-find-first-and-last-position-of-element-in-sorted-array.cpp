@@ -1,9 +1,50 @@
 class Solution {
 public:
+    int firstOccurrence(vector<int>& nums, int n, int x){
+        int low = 0;
+        int high = n-1;
+        int first = -1;
+        while(low <= high){
+            int mid = low + (high-low)/2;
+            if(nums[mid] == x){
+                first = mid;
+                high = mid-1;
+            }
+            else if(nums[mid] < x){
+                low = mid+1;
+            }
+            else{
+                high = mid-1;
+            }
+        }
+        return first;
+    }
+
+    int lastOccurrence(vector<int>& nums, int n, int x){
+        int low = 0;
+        int high = n-1;
+        int last = -1;
+        while(low <= high){
+            int mid = low + (high-low)/2;
+            if(nums[mid] == x){
+                last = mid;
+                low = mid+1;
+            }
+            else if(nums[mid] < x){
+                low = mid+1;
+            }
+            else{
+                high = mid-1;
+            }
+        }
+        return last;
+    }
+
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-        if((lb == nums.size()) || (nums[lb] != target)) return {-1, -1};
-        int ub = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
-        return {lb, ub-1};
+        int n = nums.size();
+        int first = firstOccurrence(nums, n, target);
+        if(first == -1) return {-1, -1};
+        int last = lastOccurrence(nums, n,target);
+        return {first, last};
     }
 };
