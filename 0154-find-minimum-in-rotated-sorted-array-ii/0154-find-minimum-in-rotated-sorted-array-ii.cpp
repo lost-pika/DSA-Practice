@@ -8,21 +8,12 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if(nums.size() == 1){
-                return nums[0];
-            }
-
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 ans = min(ans, nums[low]);
-                low = low + 1;
-                high = high - 1;
+                low++;
+                high--;
                 continue;
-            }
-
-            // if (nums[low] <= nums[high]) {
-            //     ans = min(ans, nums[low]);
-            //     break;
-            // }
+            } 
 
             if (nums[low] <= nums[mid]) {
                 ans = min(ans, nums[low]);
