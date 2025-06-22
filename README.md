@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sinceresrishti/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sinceresrishti/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sinceresrishti/DSA-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sinceresrishti/DSA-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/1646-kth-missing-positive-number) |
