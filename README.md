@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinceresrishti/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sinceresrishti/DSA-Practice/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sinceresrishti/DSA-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sinceresrishti/DSA-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sinceresrishti/DSA-Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sinceresrishti/DSA-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sinceresrishti/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sinceresrishti/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sinceresrishti/DSA-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sinceresrishti/DSA-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sinceresrishti/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2107-find-unique-binary-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sinceresrishti/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sinceresrishti/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/sinceresrishti/DSA-Practice/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sinceresrishti/DSA-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2107-find-unique-binary-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 ## Binary Search
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sinceresrishti/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sinceresrishti/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/sinceresrishti/DSA-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sinceresrishti/DSA-Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Simulation
 |  |
