@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sinceresrishti/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sinceresrishti/DSA-Practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2107-find-unique-binary-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sinceresrishti/DSA-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
