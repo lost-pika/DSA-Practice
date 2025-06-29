@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sinceresrishti/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sinceresrishti/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1806-count-of-matches-in-tournament](https://github.com/sinceresrishti/DSA-Practice/tree/master/1806-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sinceresrishti/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [1806-count-of-matches-in-tournament](https://github.com/sinceresrishti/DSA-Practice/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sinceresrishti/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
